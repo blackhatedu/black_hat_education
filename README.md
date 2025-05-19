@@ -1,32 +1,33 @@
-# black_hat_education
+# Secure Pro
 
-**black_hat_education** is an educational platform focused on cybersecurity and ethical hacking. The goal is to teach students and beginners about ethical hacking, system vulnerabilities, and how to secure systems — **purely for educational purposes.**
+**Secure Pro** is a modern and secure website template focused on strong cybersecurity principles. It is designed for developers, educators, and ethical hackers who want to learn and implement security-first web design practices.
 
 ## Features
 
-- Ethical hacking tutorials and tools (demo-based)
-- Cybersecurity awareness content
-- Real-world scenarios explained legally and ethically
-- Blog-style articles and code snippets
+- Strong security headers (CSP, X-Frame-Options, X-Content-Type-Options)
+- Secure, accessible, and responsive HTML/CSS layout
+- Client-side form validation with JavaScript
+- Built using only front-end technologies (HTML, CSS, JS)
+- Simple and elegant UI with dark mode
+- Perfect base for cybersecurity or ethical hacking websites
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript
-- GitHub Pages
+- Vanilla JavaScript
+- Hosted on GitHub Pages
 
-## Contact
+## Security Practices Followed
 
-For collaboration, queries, or suggestions, reach out at:  
-**Email:** [luarnwithvaibhav@gmail.com](mailto:luarnwithvaibhav@gmail.com)
+- Content Security Policy (CSP)
+- Input validation and sanitization
+- HTTPS support with GitHub Pages
+- No external scripts (self-hosted only)
+- Safe defaults for headers
 
-## Live Website
+## Getting Started
 
-[Visit Site](https://vaibhavlodhe099.github.io/black_hat_education/)
-
-## License
-
-This project is licensed under the MIT License.
-
-> **Disclaimer:** This site is strictly for ethical and educational use. It does not support or promote illegal hacking.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/secure-pro.git
